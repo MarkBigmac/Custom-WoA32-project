@@ -6,12 +6,14 @@ Modified Windows 10 Arm32 with pre-installed software for a better user experien
 - Sounds have been replaced with the standard ones from Windows 10 Build 10074
 - The necessary software has been added
 - A script has been added to the desktop to activate Windows
+- Improved performance with Dism++ features
 # Added programs
 - 7-Zip
 - Notepad++
 - Process Hacker
 - Bochs - x32 emulator
 - DosBox - x16 emulator
+- Microsoft Store
 # Download
 https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
 # Additional information
