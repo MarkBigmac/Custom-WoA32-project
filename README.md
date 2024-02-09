@@ -17,6 +17,6 @@ Modified Windows 10 Arm32 with pre-installed software for a better user experien
 # Download
 https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
 # Additional information
-Thanks @aistop0 for searching for Windows Arm32 compatible programs
+Thanks @aistop0 for searching for Windows Arm32 compatible programs.
 Windows and all rights to it belong to Microsoft, I am not the owner/developer or anyone else of this product. I just made a modified version.
 Custom WoA32 project - Custom Windows on Arm32 project
