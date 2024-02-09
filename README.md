@@ -1,6 +1,6 @@
 # Custom WoA32 project 1.0
 ![Custom WoA32 project banner](https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/7d8d7298-ec30-47e4-8390-ee1e6380f9f9)
-Modified Windows 10 Arm32 with pre-installed software for a better user experience!
+## Modified Windows 10 Arm32 with pre-installed software for a better user experience!
 # Trailer
 https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-5dfc-4bb1-b4b6-88e8504bac15
 # Improvements
@@ -18,7 +18,7 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
 - DosBox - x16 emulator
 - Microsoft Store
 # Download
-https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
+### https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
 # Additional information
 Thanks @aistop0 for searching for Windows ARM32 compatible programs.
 Windows and all rights to it belong to Microsoft, I am not the owner/developer or anyone else of this product. I just made a modified version.
