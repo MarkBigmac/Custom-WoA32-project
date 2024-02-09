@@ -1,4 +1,4 @@
-# Custom WoA32 project
+# Custom WoA32 project 1.0
 Modified Windows 10 Arm32 with pre-installed software for a better user experience!
 # Improvements
 - Deleted LicensingUI.exe (Now the message "This build of Windows will expire soon" is missing and the device will not reboot every few hours)
