@@ -2,7 +2,7 @@
 ![Custom WoA32 project banner](https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/7d8d7298-ec30-47e4-8390-ee1e6380f9f9)
 Modified Windows 10 Arm32 with pre-installed software for a better user experience!
 # Trailer
-[![Trailer](https://img.youtube.com/vi/wQ2IO1wPI20/hqdefault.jpg)](https://youtu.be/wQ2IO1wPI20)
+https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-5dfc-4bb1-b4b6-88e8504bac15
 # Improvements
 - Deleted LicensingUI.exe (Now the message "This build of Windows will expire soon" is missing and the device will not reboot every few hours)
 - Default Windows wallpaper have been replaced with an analog from the latest builds of Windows 10. The rest of the wallpaper has also been replaced :)
@@ -20,6 +20,6 @@ Modified Windows 10 Arm32 with pre-installed software for a better user experien
 # Download
 https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
 # Additional information
-Thanks @aistop0 for searching for Windows Arm32 compatible programs.
+Thanks @aistop0 for searching for Windows ARM32 compatible programs.
 Windows and all rights to it belong to Microsoft, I am not the owner/developer or anyone else of this product. I just made a modified version.
-Custom WoA32 project - Custom Windows on Arm32 project
+Custom WoA32 project - Custom Windows on ARM32 project
