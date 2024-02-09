@@ -2,7 +2,7 @@
 ![Custom WoA32 project banner](https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/7d8d7298-ec30-47e4-8390-ee1e6380f9f9)
 Modified Windows 10 Arm32 with pre-installed software for a better user experience!
 # Trailer
-<video src='https://youtu.be/wQ2IO1wPI20' width=180/>
+[![Watch the video](https://i.stack.imgur.com/Vp2cE.png)](https://youtu.be/wQ2IO1wPI20)
 # Improvements
 - Deleted LicensingUI.exe (Now the message "This build of Windows will expire soon" is missing and the device will not reboot every few hours)
 - Default Windows wallpaper have been replaced with an analog from the latest builds of Windows 10. The rest of the wallpaper has also been replaced :)
