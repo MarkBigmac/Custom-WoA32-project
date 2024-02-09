@@ -11,7 +11,7 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
 - The necessary software has been added
 - A script has been added to the desktop to activate Windows
 - Improved performance with Dism++ features
-</details>
+ </details>
 # Added programs
 <details><summary>Added programs</summary>
 - 7-Zip
@@ -20,7 +20,7 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
 - Bochs - x32 emulator
 - DosBox - x16 emulator
 - Microsoft Store
-</details>
+ </details>
 # Download
 ### https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
 # Additional information
