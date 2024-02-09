@@ -30,9 +30,9 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
  </details>
  
 # Download
-### https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
+[![Download](https://ruspublic18.ru/public/style_extra/other/download.png)](https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing)
 
 # Additional information
-Thanks @aistop0 for searching for Windows ARM32 compatible programs.
-Windows and all rights to it belong to Microsoft, I am not the owner/developer or anyone else of this product. I just made a modified version.
-Custom WoA32 project - Custom Windows on ARM32 project
+❤ Thanks @aistop0 for searching for Windows ARM32 compatible programs.
+:warning: Windows and all rights to it belong to Microsoft, I am not the owner/developer or anyone else of this product. I just made a modified version.
+🛈 Custom WoA32 project - Custom Windows on ARM32 project
