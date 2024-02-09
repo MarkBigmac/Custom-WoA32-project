@@ -13,14 +13,12 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
 - Improved performance with Dism++ features
  </details>
 # Added programs
-<details><summary>Added programs</summary>
 - 7-Zip
 - Notepad++
 - Process Hacker
 - Bochs - x32 emulator
 - DosBox - x16 emulator
 - Microsoft Store
- </details>
 # Download
 ### https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing
 # Additional information
