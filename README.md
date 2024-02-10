@@ -34,6 +34,18 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
 
  </details>
 
+ # You need to download:
+
+<details><summary>You need to download:</summary>
+
+| Software | Link |
+|----------|----------|
+| Windows 10 for ARMv7 Installer | [Download](https://github.com/RedGreenBlue09/WFAv7_Installer) |
+| Windows Phone Internals | [Download](https://github.com/ReneLergner/WPinternals/releases/latest) |
+
+ </details>
+
+
  # Installation
 
 <details><summary>Installation</summary>
