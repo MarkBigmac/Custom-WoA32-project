@@ -1,4 +1,4 @@
-# Custom WoA32 project 1.0
+# Custom WoA32 project 1.1
 
 ![Custom WoA32 project banner](https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/7d8d7298-ec30-47e4-8390-ee1e6380f9f9)
 
@@ -25,12 +25,14 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
 
 <details><summary>Added programs</summary>
 
-- 7-Zip
+- Microsoft Office 2013
+- Paint.NET
 - Notepad++
+- 7-Zip
 - Process Hacker
 - Bochs - x32 emulator
 - DosBox - x16 emulator
-- Microsoft Store
+- Microsoft Store 
 
  </details>
 
@@ -53,7 +55,7 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
  
 # Download
 
-[<img src="https://ruspublic18.ru/public/style_extra/other/download.png" width=30% height=15%>](https://drive.google.com/file/d/1TN8WgShgk79Rq26WhGc-MAvU5IJB_5Mk/view?usp=sharing)
+[<img src="https://ruspublic18.ru/public/style_extra/other/download.png" width=30% height=15%>](https://drive.google.com/file/d/1CYnuj-wCUz2bQM89tcOs0LLwc7sJM-TX/view?usp=sharing)
 
 # Additional information
 
