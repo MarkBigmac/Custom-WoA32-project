@@ -38,8 +38,8 @@ https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/e34fc5d3-
 
 <details><summary>Installation</summary>
 
-1. Download [Windows 10 for ARMv7 Installer](https://github.com/RedGreenBlue09/WFAv7_Installer)
-2. Download the Custom WoA32 project, and unzip the contents of the archive to the folder with "Windows 10 for ARMv7 Installer"
+1. Download [Windows 10 for ARMv7 Installer](https://github.com/RedGreenBlue09/WFAv7_Installer).
+2. Download the Custom WoA32 project, and unzip the contents of the archive to the folder with Windows 10 for ARMv7 Installer.
 3. Follow the [instructions for Windows 10 for ARMv7 Installer](https://github.com/RedGreenBlue09/WFAv7_Installer?tab=readme-ov-file#instruction) from step 2.
 
  </details>
