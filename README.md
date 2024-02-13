@@ -1,6 +1,6 @@
 # Custom WoA32 project 1.1
 
-![Custom WoA32 project banner](https://github.com/TechnoLoshara/Custom-WoA32-project/assets/157511507/7d8d7298-ec30-47e4-8390-ee1e6380f9f9)
+![Custom WoA32 project banner](https://github.com/MarkBigmac/Custom-WoA32-project/assets/157511507/7d8d7298-ec30-47e4-8390-ee1e6380f9f9)
 
 ## Modified Windows 10 Arm32 with pre-installed software for a better user experience!
 
